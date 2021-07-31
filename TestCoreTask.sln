@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess.Repositories", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCoreTask.BLL", "TestCoreTask.BLL\TestCoreTask.BLL.csproj", "{F14CA23C-8360-4B2B-A3F1-23DD1D8E4CFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCoreTask.Tests", "TestCoreTask.Tests\TestCoreTask.Tests.csproj", "{2F8313EF-C1AD-475C-9B20-09D6A32D2511}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F14CA23C-8360-4B2B-A3F1-23DD1D8E4CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F14CA23C-8360-4B2B-A3F1-23DD1D8E4CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F14CA23C-8360-4B2B-A3F1-23DD1D8E4CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F8313EF-C1AD-475C-9B20-09D6A32D2511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8313EF-C1AD-475C-9B20-09D6A32D2511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8313EF-C1AD-475C-9B20-09D6A32D2511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8313EF-C1AD-475C-9B20-09D6A32D2511}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
